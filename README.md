@@ -1,2 +1,1 @@
-# Prepcourse_Henry
-Este es el primer repositorio creado para Henry en el prepcourse, del modulo 2
+Este proyecto es una prueba de como crear un repositorio y clonarlo.
